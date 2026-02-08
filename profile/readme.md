@@ -39,7 +39,7 @@ feedback loops for continuous improvement
 
 ## Contributing
 
-PRs are always welcome ❤️. See more details in the ClearML [Guidelines for Contributing](https://github.com/clearml/clearml/blob/master/docs/contributing.md).
+PRs are always welcome ❤️. See more details in the ClearML [Guidelines for Contributing](https://github.com/clearml/clearml/blob/master/CONTRIBUTING.md).
 
 ## Want to Learn More?
 
